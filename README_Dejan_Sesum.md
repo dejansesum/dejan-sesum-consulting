@@ -39,9 +39,9 @@ https://your-username.github.io/dejan-sesum-consulting/
 
 ## 📫 Contact
 
-- 📧 Email: dejan.sesum@example.com
-- 🌍 Based in South Sudan, available worldwide
-- 🔗 LinkedIn: [linkedin.com/in/dejan-sesum](https://www.linkedin.com/in/dejan-sesum)
+- 📧 Email: dejansesum@gmail.com
+- 🌍Available worldwide
+
 
 ---
 
